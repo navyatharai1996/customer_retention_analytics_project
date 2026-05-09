@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore raw datasets
+data/raw/*.csv
+
+# Ignore large files
+*.zip
+*.7z
+*.parquet
