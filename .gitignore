@@ -224,3 +224,15 @@ data/raw/*.csv
 *.zip
 *.7z
 *.parquet
+
+# datasets
+data/raw/*.csv
+data/cleaned/*.csv
+
+# virtual environment
+.venv/
+venv.venv/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
