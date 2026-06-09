@@ -2,14 +2,14 @@ create database customer_retention_db;
 use customer_retention_db;
 select count(*) from dec_cleaned_dataset;
 
-# Data is not imported fully: 3,31,961 is the imported data but I need full data which is 33,49,409 
+/* Data is not imported fully: 3,31,961 is the imported data but I need full data which is 33,49,409 */
 drop table dec_cleaned_dataset;
 
 use customer_retention_db;
 select count(*) from dec_cleaned_dataset;
 drop table dec_cleaned_dataset;
 
-# Import using Method 2:
+/* Import using Method 2: */
 
 SHOW VARIABLES LIKE 'local_infile';
 SELECT VERSION();
