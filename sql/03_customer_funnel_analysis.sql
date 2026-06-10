@@ -53,4 +53,3 @@ where event_type='purchase' group by brand having count(*)>50 order by revenue d
 select brand, count(*) as total_purchases, round(sum(price), 2) as revenue, round(avg(price), 2) as avg_pur_value, 
 round(sum(price)/sum(sum(price)) over()*100, 2) as revenue_pct from dec_cleaned_dataset 
 where event_type='purchase' group by brand having count(*)>50 order by revenue desc;
-
