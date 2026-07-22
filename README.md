@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 Retail businesses collect millions of transaction records every month, but raw data alone cannot answer important business questions.
 
