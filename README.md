@@ -66,7 +66,7 @@ For business analysis, purchase transactions were isolated and analysed separate
 |-------|----------|
 | Python (Pandas) | Data Cleaning & Preprocessing |
 | SQL | Business Analysis |
-| Power BI | Data Visualisation | Dashboard Development |
+| Power BI | Data Visualisation / Dashboard Development |
 | Git | Version Control |
 | GitHub | Portfolio & Collaboration |
 
