@@ -1,6 +1,6 @@
 # 📊 Customer Retention Analytics Dashboard
 
-> End-to-end Customer Retention & Sales Analytics project built using **SQL, Python, Power BI**.
+> End-to-end retail analytics project using  **SQL, Python, Power BI** to analyze 3.3M+ e-commerce transactions, uncover customer retention patterns, product performance and sales insights.
 
 ---
 
